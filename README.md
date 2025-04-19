@@ -33,7 +33,7 @@ PhishSnap is an AI-driven phishing email triage assistant designed for MSPs, SOC
 
 1. **Clone the repo** or download and unzip:
 ```bash
-git clone https://github.com/YOUR_USERNAME/phishsnap.git
+git clone https://github.com/Alexandrafaith2/phishsnap.git
 cd phishsnap
 ```
 
@@ -100,6 +100,6 @@ Deploy PhishSnap on [Streamlit Cloud](https://streamlit.io/cloud) for free:
 
 ## 📬 Contact
 
-Made with 💻 and too much caffeine by [Your Name].  
+Made with 💻 and too much caffeine by Alexandra McKinnon.  
 Pull requests and issues welcome!
 
