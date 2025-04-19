@@ -1,0 +1,12 @@
+From: Amazon Support <support@amz-on.com>
+Subject: Urgent: Your Account Has Been Suspended
+
+Dear Customer,
+
+We’ve detected unusual activity on your account. Please verify your information immediately or your account will be permanently suspended.
+
+Click the link below to resolve the issue:
+http://amazon-support-security-check.com/login
+
+Thank you,
+Amazon Security Team

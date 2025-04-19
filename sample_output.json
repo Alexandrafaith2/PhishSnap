@@ -1,0 +1,12 @@
+{
+  "risk_level": "High",
+  "indicators": [
+    "Suspicious sender domain (amz-on.com)",
+    "Urgent and threatening language",
+    "External link to non-Amazon URL",
+    "Generic greeting"
+  ],
+  "explanation": "This email is a phishing attempt designed to trick the user into clicking a malicious link by creating a false sense of urgency. The sender domain is spoofed and the URL is not related to Amazon.",
+  "user_response": "Thanks for reporting this. The email you received is a phishing attempt. Please do not click any links or download attachments. You can safely delete the message.",
+  "internal_summary": "Phishing email impersonating Amazon with spoofed domain (amz-on.com) and credential-harvesting link. Reported and no user action taken. No compromise detected."
+}
